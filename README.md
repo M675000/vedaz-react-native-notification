@@ -24,5 +24,4 @@ You can run the app here using Expo Snack:
 
 ---
 
-## 🗂️ Project Structure
 
