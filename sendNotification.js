@@ -1,1 +1,10 @@
-// Simulated backend using Node.js to trigger FCM
+import React from 'react';
+import { View, Text } from 'react-native';
+
+export default function NotificationScreen() {
+  return (
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+      <Text>Incoming Call Screen</Text>
+    </View>
+  );
+}
